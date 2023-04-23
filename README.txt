@@ -1,0 +1,1 @@
+This is the project I did to learn how to connect and use a Database with NetBeans.
